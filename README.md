@@ -19,7 +19,6 @@ The following sections outline the step-by-step development process of the DiaBe
 
 🚀 Step 1: Accessing Amazon PartyRock
 Every journey begins with the first step, and ours starts at AWS PartyRock. PartyRock is an intuitive AWS service that enables anyone—even without coding skills—to build powerful AI-driven apps quickly.
-![image](https://github.com/user-attachments/assets/08d6dc0d-4715-4fb5-a0d3-a8530191618c)
 
  
 
